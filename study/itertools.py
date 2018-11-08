@@ -1,5 +1,5 @@
 from itertools import *
-
+ОПА ОПА ЛЯЛЯЛА Я СЛОМАЛ ТВОЮ ПРОГУ
 """ 
 itertools.takewhile(<Функция>, <Последовательность>)
 
